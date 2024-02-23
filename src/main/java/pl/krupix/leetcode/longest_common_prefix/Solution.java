@@ -1,6 +1,6 @@
 package pl.krupix.leetcode.longest_common_prefix;
 
-public class Solution {
+class Solution {
 
     /*
     Example 1:
